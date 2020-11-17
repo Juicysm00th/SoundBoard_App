@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoundBoard App</string>
+    <string name="sunny">Sunny</string>
+    <string name="foggy">Foggy</string>
+</resources>

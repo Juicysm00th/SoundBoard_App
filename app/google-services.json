@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1052720334886",
+    "firebase_url": "https://soundboard-app-b0a2b.firebaseio.com",
+    "project_id": "soundboard-app-b0a2b",
+    "storage_bucket": "soundboard-app-b0a2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052720334886:android:35a8657f40f66c2fb17ee7",
+        "android_client_info": {
+          "package_name": "com.example.soundboardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052720334886-bd87fj93vme26tpuhctdttn162t4r875.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3NBzAL6M4eZ7hsb_t_SBspXIXfYzGPpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052720334886-bd87fj93vme26tpuhctdttn162t4r875.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
